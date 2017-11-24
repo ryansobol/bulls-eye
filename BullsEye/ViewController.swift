@@ -126,4 +126,3 @@ class ViewController: UIViewController {
     startNewGame()
   }
 }
-

@@ -17,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		924721711FC8513F008ADDC9 /* .swiftlint.yml */ = {isa = PBXFileReference; lastKnownFileType = text; path = .swiftlint.yml; sourceTree = "<group>"; };
 		92983D6D1FBF0931009DE184 /* BullsEye.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BullsEye.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		92983D701FBF0931009DE184 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		92983D721FBF0931009DE184 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -42,6 +43,7 @@
 		92983D641FBF0931009DE184 = {
 			isa = PBXGroup;
 			children = (
+				924721711FC8513F008ADDC9 /* .swiftlint.yml */,
 				92983D6F1FBF0931009DE184 /* BullsEye */,
 				92983D6E1FBF0931009DE184 /* Products */,
 			);
